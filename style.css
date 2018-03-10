@@ -1,0 +1,48 @@
+h1{
+    text-align: center;
+    color:beige;
+    background-color:black;
+}
+
+p{
+    padding:20px;
+    padding-left:250px;
+}
+.name{
+    margin-left:20px;
+}
+body{
+    color:black;
+    background-color:beige;
+}
+
+a:link{
+    color:red;
+}
+a:visited{
+    color:red;
+}
+
+.one{
+    width:50%;
+    background-color:beige;
+    
+}
+.two{
+    position: absolute;
+    width:25%;
+    background-color:beige;
+    top:100px;
+    right:0px;
+    
+}
+
+.parent{
+    background-color:beige;
+    
+}
+.bioImage{
+    float:left;
+    background-color:beige;
+    margin-left:20px;
+}
